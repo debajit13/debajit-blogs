@@ -4,7 +4,7 @@ date: "2020-10-14T22:12:03.284Z"
 description: "In this blog, I am sharing my journey in Hack Club SIT and how it teaches me a lot of things"
 ---
 
-![event](https://indiablog.hackclub.com/content/articles/hacksitmyjourney/img/poster.jpg)
+<img src="https://indiablog.hackclub.com/content/articles/hacksitmyjourney/img/poster.jpg" width="632px" height="332px">
 
 ###Introduction to Hack Club:
 
@@ -20,11 +20,11 @@ He asked me some questions about my ideas and how I would teach other members an
 
 Now, we were going to conduct our first meetup. In the first session, I told everyone about the Hack Club and its mission. After that, I took one session on Git and GitHub. As it was my first event I was a little bit nervous but in the end, all the things went well!
 
-![event](https://indiablog.hackclub.com/content/articles/hacksitmyjourney/img/meet1.jpg)
+<img src="https://indiablog.hackclub.com/content/articles/hacksitmyjourney/img/meet1.jpg" width="632px" height="332px">
 
 After that, we met another day for GitHub and Open Source again. This time I was fully ready to take that the event and teach all the basic topics and open source concepts. This time we were going blazing fast and all the members were very eager to learn and build projects.
 
-![event](https://indiablog.hackclub.com/content/articles/hacksitmyjourney/img/meet2.jpeg)
+<img src="https://indiablog.hackclub.com/content/articles/hacksitmyjourney/img/meet2.jpeg" width="632px" height="332px">
 
 ###The Pandemic Story
 
