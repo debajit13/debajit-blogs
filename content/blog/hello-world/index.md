@@ -1,231 +1,30 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Deep Dive Into Git(Part I)
+date: "2020-07-07T22:40:32.169Z"
+description: What is Git? Why understanding it is so much important? In this article, we are going to understand it.
 ---
 
-This is my first post on my new fake blog! How exciting!
+Git is a distributed version control system. Now we are going to understand what is the meaning of each word in this definition.
 
-I'm sure I'll write a lot more interesting things in the future.
+Before that, there are two things that you need to know. They are client and server. So the client is the computer which you use like your PC and server is a big computer which provides or takes the data from the client. It is not the proper definition of client and server. But for the seek of understanding Git you can also think it like this.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+There are two types of systems:
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+1.  Centralized System
+1.  Distributed System
 
-![Chinese Salty Egg](./salty_egg.jpg)
+![centralized system](https://miro.medium.com/max/700/1*sk12XX2YQUVAinZnpRZUTw.png)
 
-You can also write code blocks here!
+In Centralized systems, there is a central server and other client machines are connected with it. Let us take an example, in a company some developers write codes in their computers and at the end of the day they send all their code to the server. This kind of systems are great but also have some problems. Just if somehow the server fails then all the code have vanished and all hard work they have done just gone forever. That is the primary cause of why Distributed systems came into the picture.
 
-```js
-const saltyDuckEgg = "chinese preserved food product"
-```
+![distributed system](https://miro.medium.com/max/700/1*t5Zf0lQtXAggNXz5NtQXFw.png)
 
-| Number | Title                                    | Year |
-| :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
+In Distributed systems, there is a central server and clients are connected with it just like the Centralized system, but the main difference in this system is all the client machines have their copy of the code that they wrote previously. So if the server crashed they have all the code in their computers. For that, they do not face too much loss like a Centralized system. Git system based on this distributed approach, so we always have a local copy of the code.
 
-[View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
+![before and after learning git](https://miro.medium.com/max/700/1*ERQU99MvNvEKpT8jaLAegQ.png)
 
-This is a paragraph.
+Now the other term is called version control, what is it? Before understanding that let us consider a situation where you have a project and you don’t know anything about version control. Then first you create a project and named it “Project”. Some days later you add or delete some code and renamed it to “Final Project”. After some days you again change some code and renamed it “Final Final Project” and this process goes on. Now if you want to go to a particular version of your project, it’s not easy for you to go and find a project folder where you have certain features or deleted some of them. It is not practical at all.
 
-    This is a paragraph.
+So what Git does is it creates a version for your project and change it after some changes you have made in that project. So now you have created a project that is initially at v1.0. After some change, turns into v1.1 and so on. Now if you want, it just takes your one command to go back from v10.9 to v1.9 or vice versa using Git. So now your project is much easier to manage.
 
-# Header 1
-
-## Header 2
-
-    Header 1
-    ========
-
-    Header 2
-    --------
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
-
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-    > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-> ## This is a header.
->
-> 1. This is the first list item.
-> 2. This is the second list item.
->
-> Here's some example code:
->
->     Markdown.generate();
-
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
-
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-
-```markdown
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-```
-
-- `code goes` here in this line
-- **bold** goes here
-
-```markdown
-- `code goes` here in this line
-- **bold** goes here
-```
-
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-
-```markdown
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-```
-
-1. `code goes` here in this line
-1. **bold** goes here
-
-```markdown
-1. `code goes` here in this line
-1. **bold** goes here
-```
-
-Paragraph:
-
-    Code
-
-<!-- -->
-
-    Paragraph:
-
-        Code
-
----
-
----
-
----
-
----
-
----
-
-    * * *
-
-    ***
-
-    *****
-
-    - - -
-
-    ---------------------------------------
-
-This is [an example](http://example.com "Example") link.
-
-[This link](http://example.com) has no title attr.
-
-This is [an example][id] reference-style link.
-
-[id]: http://example.com "Optional Title"
-
-    This is [an example](http://example.com "Example") link.
-
-    [This link](http://example.com) has no title attr.
-
-    This is [an example] [id] reference-style link.
-
-    [id]: http://example.com "Optional Title"
-
-_single asterisks_
-
-_single underscores_
-
-**double asterisks**
-
-**double underscores**
-
-    *single asterisks*
-
-    _single underscores_
-
-    **double asterisks**
-
-    __double underscores__
-
-This paragraph has some `code` in it.
-
-    This paragraph has some `code` in it.
-
-![Alt Text](https://placehold.it/200x50 "Image Title")
-
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
+So why version control or Git is so much important? Firstly, it helps you to keep track of the changes you have made in a project over time. Secondly, It gives you the ability to go back to a particular version. Most importantly, You can easily contribute to someone else’s work.
