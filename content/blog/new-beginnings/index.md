@@ -1,108 +1,57 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: Hack Club SIT - My Journey
+date: "2020-10-14T22:12:03.284Z"
+description: "In this blog, I am sharing my journey in Hack Club SIT and how it teaches me a lot of things"
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+![event](https://indiablog.hackclub.com/content/articles/hacksitmyjourney/img/poster.jpg)
 
-## On deer horse aboard tritely yikes and much
+###Introduction to Hack Club:
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+It is an incident from the previous year (2019), One day I was going through my emails and I found one email from GitHub. When I scrolled through the email there was a link to a post about Hack Club. I didn’t know anything about the Hack Club. Then I read about it and was motivated to apply as a lead. So filled that form and it took about 2 hours to fill that form.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+Then I took two of my friends Nilavya Das and Ishan Bagchi as the Co-lead. I was very nervous as I have never been a leader of any group before and if my application was rejected then it that too would be very painful for me.
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+But my luck shined and I got one email from Hack Club that said they have selected my proposal and now there would be one interview round. I was scared as I didn’t have any experience of giving an interview. But as the interviewer was very friendly and helpful so it went great for me.
 
-### Overlaid the jeepers uselessly much excluding
+He asked me some questions about my ideas and how I would teach other members and after giving answers he told me that I have to organize our first meetup.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+###First events - Open Source and GitHub:
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+Now, we were going to conduct our first meetup. In the first session, I told everyone about the Hack Club and its mission. After that, I took one session on Git and GitHub. As it was my first event I was a little bit nervous but in the end, all the things went well!
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+![event](https://indiablog.hackclub.com/content/articles/hacksitmyjourney/img/meet1.jpg)
 
-### According a funnily until pre-set or arrogant well cheerful
+After that, we met another day for GitHub and Open Source again. This time I was fully ready to take that the event and teach all the basic topics and open source concepts. This time we were going blazing fast and all the members were very eager to learn and build projects.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+![event](https://indiablog.hackclub.com/content/articles/hacksitmyjourney/img/meet2.jpeg)
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+###The Pandemic Story
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+We had many plans to execute after the first two events, but then the pandemic happened and we were unable to execute any of our plans. Other groups and people were affected by the pandemic, our Hack Club SIT was no exception to that. We lost all our connections with other members. The group was in very bad condition. No members were active and we also didn’t have anything to do at that time. At that point, I thought that club might not sustain.
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+###We made it through!
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+After some months at the end of August, I and my co-leads had one idea. We thought to take a one-month long competition on open-source contribution.
 
-#### Silent delightfully including because before one up barring chameleon
+We then started with the execution of our plans. We made and collectively took some projects from people and told the creators to make some issues in their projects. After that, all the 27 contributors started to make their contribution. Some of them made decent contributions and we gave them some stickers. This event was pretty long but well-executed.
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+At that point in time, we thought maybe if we take online sessions we can also create a better impact.
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+![event poster](https://indiablog.hackclub.com/content/articles/hacksitmyjourney/img/gameon.png)
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+###New Beginnings
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
+Some days later, my juniors came to me and told me that they were going to be active and they wanted to learn and improve their skills. I was so happy to see their eagerness to learn and make something good. So we made one core team to plan our events and other tasks.
 
-###### Slapped cozy a that lightheartedly and far
+Then we found that many students didn’t know what were the different things in computer science engineering. So we took one event with 6 speakers( specialists in different fields) about what is engineering and what are the different parts of it. In this event, we talk about web development, app development, artificial intelligence, cybersecurity, and competitive programming.
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+As Hack Club gave us Zoom pro. We were using it to take this event. We got an amazing response from the attendees. We also have one youtube channel. Where we teach and organising amazing events.
+
+You can follow Hack Club SIT and join our slack group also. Links are provided below
+
+- [YouTube](https://www.youtube.com/channel/UCUNKlsGUtcwAclmyatjo1ow)
+- [Twitter](https://twitter.com/hackclubsit)
+- [LinkedIn](https://www.linkedin.com/company/hackclubsit)
+- [Slack](https://app.slack.com/client/TRP9V4N9X/CRN3E5CF5)
+- [GitHub](https://github.com/Hack-Club-SIT)
