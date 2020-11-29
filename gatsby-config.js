@@ -5,7 +5,7 @@ module.exports = {
       name: `Debajit Mallick`,
       summary: `a ReactJS Intern at Let's Develop It.`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog site where you find all my blogs.`,
     siteUrl: `https://debajit13blog.netlify.app/`,
     social: {
       twitter: `MallickDebajit`
